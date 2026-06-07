@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-AESD_ASSIGNMENTS_VERSION = master
+AESD_ASSIGNMENTS_VERSION = 5c6532f90c20e6550782339d74705a484be935cc
 AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-krishnanbasudeo.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES

@@ -24,4 +24,4 @@ jobs:
           - name: Cleanup
             if: always()
             run: |
-              ssh-add -D
+              ssh-add -D || true
